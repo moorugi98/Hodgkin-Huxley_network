@@ -1,4 +1,6 @@
 # Hodgkin-Huxley_network
+https://thesiscommons.org/yex29/
+
 
 Simulate a simple delay-coupled Hodgkin-Huxley neuronal network with an option to modulate the external signal.
 
